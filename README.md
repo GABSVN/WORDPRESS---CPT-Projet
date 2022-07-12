@@ -17,10 +17,9 @@
 <!-- --------------------------------------------------- -->
 <!-- -------Badges Wordpress et PHP license 7 - 8 -------------------------------------- -->
 
-<div align="center">
+
 ![](https://img.shields.io/badge/Cms-Wordpress-informational?style=flat&logo=Wordpress&color=336791)
-![PHP 7 and 8](https://img.shields.io/badge/php-7%20/%208-blue.svg?style=flat-square)](https://wordpress.org/support/update-php/)
-</div>
+[![PHP 7 and 8](https://img.shields.io/badge/php-7%20/%208-blue.svg?style=flat-square)](https://wordpress.org/support/update-php/)
 <!------------------------------------------------------- -->
 
 
