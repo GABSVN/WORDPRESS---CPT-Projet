@@ -89,7 +89,7 @@ Les moyens d'installation ou d'utilisation, ne sont pas officiellement pris en c
 
 ## Usage ##
 
-Besoin d'un type de message simple sans fioritures? Vous pouvez enregistrer un type de publication avec un seul paramètre :
+Besoin d'un type de message simple sans fioritures? Enregistrez un type de publication avec un seul paramètre :
 
 ```php
 add_action( 'init', function() {
@@ -105,7 +105,7 @@ add_action( 'init', function() {
 } );
 ```
 
-Essayez-le. Vous aurez un type de publication public hiérarchique avec une interface utilisateur d'administration, une taxonomie publique hiérarchique avec une interface utilisateur d'administration, et toutes les étiquettes et les messages mis à jour pour eux seront automatiquement générés.
+Essayez-le. Vous aurez un type de publication public hiérarchique avec une interface utilisateur d'administration, une taxonomie publique hiérarchique avec une interface utilisateur d'administration, toutes les étiquettes et les messages mis à jour générés automatiquement.
 
 Ou pour un peu plus de fonctionnalité :
 
@@ -181,7 +181,7 @@ Boum, maintenant nous avons:
 * Un type de publication "Stories", avec des étiquettes correctement générées et des messages mis à jour, trois colonnes personnalisées dans la zone d'administration (dont deux peuvent être triées), des histoires ajoutées au flux RSS principal et toutes les histoires affichées sur l'archive de type de publication.
 * Une taxonomie 'Genre' attachée au type de publication 'Stories', avec des étiquettes correctement générées et des messages de mise à jour des termes, et une colonne personnalisée dans la zone d'administration.
 
-Les fonctions `register_extended_post_type()` et `register_extended_taxonomy()` fsont finalement des enveloppes pour les fonctions `register_post_type()` et `register_taxonomy()` dans le noyau de WordPress, de sorte que n'importe lequel des paramètres de ces fonctions peut être utilisé.
+Les fonctions `register_extended_post_type()` et `register_extended_taxonomy()` sont finalement des enveloppes pour les fonctions `register_post_type()` et `register_taxonomy()` dans le noyau de WordPress, de sorte que n'importe lequel des paramètres de ces fonctions peut être utilisé.
 
 Bien entendu, vous pouvez faire beaucoup plus.
 
