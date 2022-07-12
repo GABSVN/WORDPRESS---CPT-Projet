@@ -4,17 +4,10 @@
 <!------------------------------------------------------- -->
 
 <p align="center">
-  <a href="https://user-images.githubusercontent.com/99598124/178593393-6cb0f34e-dfe4-45ab-8d68-efb13a6abdba.gif"><img src="![CPT Projet-logo-A](https://user-images.githubusercontent.com/99598124/178590971-e022aa15-0116-404c-a6b7-56d4e7fa0615.gif)" alt="my banner"></a>
+  <a href="https://user-images.githubusercontent.com/99598124/178593393-6cb0f34e-dfe4-45ab-8d68-efb13a6abdba.gif"><img src="https://user-images.githubusercontent.com/99598124/178593393-6cb0f34e-dfe4-45ab-8d68-efb13a6abdba.gif" alt="my banner"></a>
 </p>
 
 <!-- --------------------------------------------------- -->
-
-<!-- ------------------Titre---------------------------------- -->
-<h3 align="center">
-Salut, je suis <a href="https://www.gabsvn.ch/" target="_blank" rel="noreferrer">GABSVN</a> 👋
-</h3>
-<!-- ------------------------------------------------------------------------>
-
 <!-- -------Badges Wordpress et PHP license 7 - 8 -------------------------------------- -->
 
 <div align="center">
