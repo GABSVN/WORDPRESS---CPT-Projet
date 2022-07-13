@@ -19,7 +19,7 @@
 
 
 ![](https://img.shields.io/badge/Cms-Wordpress-informational?style=flat&logo=Wordpress&color=336791)
-[![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=Php&color=336791)[(https://wordpress.org/support/update-php/)]]
+![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=Php&color=336791)
 <!------------------------------------------------------- -->
 
 
