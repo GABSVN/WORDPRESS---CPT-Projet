@@ -27,7 +27,7 @@
 CPT Projet
 </h2> 
 
-Le projet CPT est un outils qui fournit des fonctionnalités étendues aux types de publication personnalisées et aux taxonomies WordPress. Il permet aux développeurs de créer rapidement des types de publication et des taxonomies sans devoir écrire le même code encore et encore.
+Le projet CPT est un outils portfolio qui fournit des fonctionnalités aux types de publication personnalisées et aux taxonomies WordPress. Il permet aux développeurs de créer rapidement des types de publication et des taxonomies sans devoir écrire le même code encore et encore.
 
 Les CPT étendus fonctionnent à la fois avec l'éditeur classique et l'éditeur de blocs.
 
